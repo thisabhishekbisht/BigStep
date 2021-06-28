@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BigStep</string>
+    <string name="tab_vedio">Video</string>
+    <string name="text_history">History</string>
+    <string name="video">Video</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="press_back_to_exit">press back again to exist</string>
+</resources>
